@@ -75,10 +75,8 @@ let totalShoppingCart =
 console.log(
   "The total cost is ",
   totalShoppingCart,
-  ", thanks to the Black Friday discount you saved ",
-  blackFridayDiscount,
-  "the shipping cost was ",
-  shippingCost
+  "Thanks to the Black Friday discount you saved ",
+  blackFridayDiscount
 );
 
 /* EXERCISE 8
@@ -121,6 +119,8 @@ carsForRent.shift();
 */
 
 console.log(carsForRent);
+// WIP: . to access properties of objects [] to access properties of arrays?
+console.log(carsForRent.brand, carsForRent.model, carsForRent.licensePlate);
 
 /* EXERCISE 12
  Create a new variable called carsForSale assigning to it an empty array, and then insert 3 cars into it.
