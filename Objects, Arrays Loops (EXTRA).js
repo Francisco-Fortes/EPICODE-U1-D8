@@ -6,7 +6,7 @@
  [1, 3, 5] ==> [5, 3, 1]
 */
 
-/* WRITE YOUR ANSWER HERE */
+//WIP
 
 /* EXTRA 2
  Write a piece of code for getting the maximum numerical value from an array.
